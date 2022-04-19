@@ -1,4 +1,4 @@
-#replace spaces in the names to underscore
+#replace spaces in the file names with underscores
 for f in *; do mv "$f" `echo $f | tr ' ' '_'`; done 
 
 #unzip rar archives

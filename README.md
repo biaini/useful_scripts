@@ -1,2 +1,2 @@
 # useful_scripts
-Useful scripts for everyday life
+Pushing to this repository useful scripts for everyday life
